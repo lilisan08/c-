@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+#include <iomanip>
 int main() {
     double num, total = 1;
     int potencia;
